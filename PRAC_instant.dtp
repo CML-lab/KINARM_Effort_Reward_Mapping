@@ -27,7 +27,7 @@
 	<gaze_feedback_mode>0</gaze_feedback_mode>
 	<instructions>''</instructions>
 	<instructions_default>u''</instructions_default>
-	<last_modified>'2023-01-17  10:37 AM'</last_modified>
+	<last_modified>'2023-04-11  10:51 AM'</last_modified>
 	<loadtable>[]</loadtable>
 	<loadtable_defs>[]</loadtable_defs>
 	<name>'PRAC_instant'</name>
@@ -102,7 +102,7 @@
 	<targettable_defs>[['X', 'float'], ['Y', 'float'], ['Vrad', 'float'], ['Color', 'colour'], ['Select Color', 'colour'], ['Instruct Text', 'label'], ['Text 2', 'label'], ['Text 3', 'label'], ['Height', 'float'], ['Stroke Width', 'float'], ['Triangle Height', 'float'], ['Rotation', 'float']]</targettable_defs>
 	<tasklevelparams>[['K_REJECT_TGT', '5'], 
 		['K_START_TGT', '1'], 
-		['K_MVC', '20.00'], 
+		['K_MVC', '20'], 
 		['K_RWD_TGT', '22'], 
 		['K_ACCEPT_TGT', '6'], 
 		['K_MVC_TEXT_TGT', '21'], 
